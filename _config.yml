@@ -1,0 +1,15 @@
+theme: jekyll-theme-cayman
+title: VMI2023
+description: The 1st Workshop on Virtual Machine Introspection and its Application
+conference_date: 23 October 2023
+top_navs:
+  - title: "About"
+    anchor: "#about-the-workshop"
+  - title: "Call For Papers"
+    anchor: "#call-for-papers"
+  - title: "Important dates"
+    anchor: "#important-dates"
+  - title: "Organizers"
+    anchor: "#workshop-organizers"
+  - title: "Contact"
+    anchor: "#contact"
