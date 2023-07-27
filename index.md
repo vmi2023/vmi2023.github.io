@@ -33,6 +33,11 @@ The workshop solicits two types of submissions: regular workshop papers max. 6 p
 * Camera ready due: 24 September 2023
 * Workshop: 23 October 2023
 
+#### Submmission site:
+
+[https://vmi2023.hotcrp.com/](https://vmi2023.hotcrp.com/)
+
+
 ### Workshop Organizers
 
 * Hans P. Reiser, Reykjavik University
