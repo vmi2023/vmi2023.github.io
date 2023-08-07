@@ -28,8 +28,8 @@ The workshop solicits two types of submissions: regular workshop papers max. 6 p
 
 #### Important dates
 
-* Submission due: 06 August 2023 (AoE)
-* Notification of acceptance: 03 September 2023
+* Submission due: 16 August 2023 (AoE) (extended)
+* Notification of acceptance: 15 September 2023
 * Camera ready due: 24 September 2023
 * Workshop: 23 October 2023
 
